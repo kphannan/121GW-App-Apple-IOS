@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[DataProtocol initInfoTable]:DataProtocol.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[DataProtocol init]:DataProtocol.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[ViewController objPositionWithOrientation:]:ViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "(ObjectID)viewObj.tag">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[DataProtocol setValue:]:DataProtocol.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[NSString stringWithFormat:[self getValueFormat:pos], measuredValues[pos]]">
+            </PersistentString>
+            <PersistentString
+               value = "[MAIN_LCD ordinal] == 0">
+            </PersistentString>
+            <PersistentString
+               value = "[self getValueFormat:pos]">
+            </PersistentString>
+            <PersistentString
+               value = "valueStrings[pos]">
+            </PersistentString>
+            <PersistentString
+               value = "valueStrings">
+            </PersistentString>
+            <PersistentString
+               value = "measuredValues[pos]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ModeInfo init:maxRange:unitStrings:units:formats:]:DataProtocol.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "strings[0]">
+            </PersistentString>
+            <PersistentString
+               value = "strings[1]">
+            </PersistentString>
+            <PersistentString
+               value = "strings[2]">
+            </PersistentString>
+            <PersistentString
+               value = "strings[3]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ViewController displayData]:ViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "sampleData">
+            </PersistentString>
+            <PersistentString
+               value = "protocol">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
