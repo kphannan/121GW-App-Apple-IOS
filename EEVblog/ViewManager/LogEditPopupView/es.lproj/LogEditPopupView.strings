@@ -1,0 +1,15 @@
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "hZL-xk-yRD"; */
+"hZL-xk-yRD.normalTitle" = "Hecho";
+
+/* Class = "UIButton"; accessibilityLabel = "LOG EDIT"; ObjectID = "uWD-Qc-JNZ"; */
+"uWD-Qc-JNZ.accessibilityLabel" = "Información de registro";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "uWD-Qc-JNZ"; */
+"uWD-Qc-JNZ.normalTitle" = "Cancelar";
+
+/* Class = "UILabel"; text = "Title:"; ObjectID = "vEA-As-8A5"; */
+"vEA-As-8A5.text" = "Título:";
+
+/* Class = "UILabel"; text = "Memo:"; ObjectID = "ydN-RO-9Ox"; */
+"ydN-RO-9Ox.text" = "Memo:";
