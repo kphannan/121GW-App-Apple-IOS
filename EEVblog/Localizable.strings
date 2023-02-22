@@ -1,0 +1,176 @@
+/* 
+  Localizable.strings
+  EEVBlog
+
+  Created by sangho on 2016. 10. 3..
+  Copyright © 2016년 finest. All rights reserved.
+*/
+
+/* for menu button */
+"menu_auto_hold"        = "A-Hold";
+"menu_relative"         = "Relative";
+"menu_range"            = "Range";
+"menu_mode"             = "Mode";
+"menu_menu"             = "Menu";
+"menu_logging"          = "Logging";
+"menu_func"             = "Func...";
+"menu_graph"            = "Graph";
+
+"menu_peak"             = "1msPEAK";
+"menu_setup"            = "SET UP";
+"menu_maxmin"           = "MAX/MIN";
+"menu_khz"              = "1kHz";
+
+"menu_connect"          = "Connect";
+"menu_disconnect"       = "Disconnect";
+"menu_settings"         = "Settings";
+"menu_info"             = "Info.";
+
+"menu_record"           = "Record";
+"menu_logs"             = "Logs";
+"menu_sdlogs"           = "SD Logs";
+"menu_sdmem"            = "SD MEM";
+
+"menu_auto"             = "AUTO";
+"menu_apo"              = "APO";
+"menu_low_bat"          = "Low Bat";
+
+/* for graph view */
+"graph_sample_number"   = "sample number";
+"graph_cylinder_number" = "cylinder number";
+"graph_time"            = "time";
+"graph_unit"            = "unit";
+"graph_time_1_second"   = "time(unit: 1 second)";
+"graph_seconds"         = "seconds";
+"graph_hide"            = "Hide";
+"graph_show"            = "Show";
+
+/* for bluetooth error dialog */
+"ble_exit"          = "Exit";
+"ble_disconnected"  = "DISCONNECTED";
+"ble_error"         = "ERROR";
+"ble_connected"     = "Connected";
+"ble_connect"       = "Connect";
+"ble_continue"      = "Continue";
+"ble_status"        = "Bluetooth Status";
+"ble_unknown"       = "Unknown";
+"ble_resetting"     = "Resetting";
+"ble_unsupported"   = "Unsupported";
+"ble_unauthorized"  = "Unauthorized";
+"ble_powered_off"   = "Powered Off";
+"ble_powered_on"    = "Powered On";
+
+/* for information view */
+"info_app_info"     = "App Information";
+"info_app_name"     = "App Name: EEVBlog 121GW";
+"info_app_version"  = "App Version: ";
+"info_acknowledge"  = "Acknowledgements";
+"info_ack_note"     = "This application uses the open-source Core-Plot framework to create the graph view. Thanks to everyone at the Core-Plot project!";
+
+/* for samples.m */
+"samples_saved_log" = "saved log";
+"samples_log_name"  = "samples";
+
+/* for log list view */
+"log_edit"          = "Edit";
+"log_done"          = "Done";
+
+/* DataProtocol.m */
+"protocol_Low_Z"    = "Low-Z";
+"protocol_DCV"      = "DCV";
+"protocol_ACV"      = "ACV";
+"protocol_DCmV"     = "DCmV";
+"protocol_ACmV"     = "ACmV";
+"protocol_Temp"     = "Temp.";
+"protocol_Hz"       = "Hz";
+"protocol_mS"       = "mS";
+"protocol_Duty"     = "Duty";
+"protocol_Resistor" = "Resistor";
+"protocol_Continuity" = "Continuity";
+"protocol_Diode"    = "Diode";
+"protocol_Capacitor"= "Capacitor";
+"protocol_ACuVA"    = "ACuVA";
+"protocol_ACmVA"    = "ACmVA";
+"protocol_ACVA"     = "ACVA";
+"protocol_ACuA"     = "ACuA";
+"protocol_DCuA"     = "DCuA";
+"protocol_ACmA"     = "ACmA";
+"protocol_DCmA"     = "DCmA";
+"protocol_ACA"      = "ACA";
+"protocol_DCA"      = "DCA";
+"protocol_DCuVA"    = "DCuVA";
+"protocol_DCmVA"    = "DCmVA";
+"protocol_DCVA"     = "DCVA";
+"protocol_dBm"      = "dBm";
+"protocol_Battery"  = "Battery";
+"protocol_APO"      = "APO";
+"protocol_YEAR"     = "YEAR";
+"protocol_DATE"     = "DATE";
+"protocol_TIME"     = "TIME";
+"protocol_Burden"   = "Burden Vpltage";
+"protocol_LCD"      = "LCD";
+"protocol_AC"       = "AC";
+"protocol_DC"       = "DC";
+"protocol_ACDC"     = "DC+AC";
+"protocol_MAX"      = "MAX";
+"protocol_MIN"      = "MIN";
+"protocol_AVG"      = "AVG";
+"protocol_MAXMINAVG"= "MAX/MIN/AVG";
+"protocol_AHOLD"    = "A-HOLD";
+"protocol_HOLD"     = "HOLD";
+"protocol_Interval" = "Interval";
+
+// SummaryViewController.m
+"summary_date"          = "Date";
+"summary_interval"      = "Recording Interval";
+"summary_num_of_samples"= "Number of Samples";
+"summary_memo"          = "Memo";
+"summary_no_memo"       = "No Memo !!";
+"summary_ok"            = "OK";
+"summary_memo_view"     = "View";
+"summary_main_lcd"      = "Main LCD";
+"summary_sub1"          = "Sub1";
+"summary_sub2"          = "Sub2";
+"summary_rec_func"      = "Rec Function";
+"summary_mode"          = "Mode";
+"summary_sec"           = "sec.";
+"summary_min"           = "min.";
+"summary_max_value"     = "Maximum Value";
+"summary_avg_value"     = "Average Value";
+"summary_min_value"     = "Minimum Value";
+"summary_value"         = "value";
+
+// SampleListViewController.m
+"sample_list_value"     = "value";
+"sample_list_date"      = "Date";
+"sample_list_time"      = "Time";
+"sample_list_main_lcd"  = "Main LCD";
+"sample_list_sub1"      = "Sub1";
+"sample_list_sub2"      = "Sub2";
+
+// ExportViewController.m
+"export_files"              = "Export Files";
+"export_csv_values"         = "CSV Values";
+"export_csv_values_desc"    = "Data values in comma-separated format";
+"export_graph_png"          = "Graph in PNG";
+"export_graph_png_desc"     = "Graph in PNG format";
+"export_graph_jpg"          = "Graph in JPG";
+"export_graph_jpg_desc"     = "Graph in JPG format";
+"export_send_mail"          = "Send Mail";
+"export_measured_date"      = "Measured Date:";
+"export_title"              = "Title:";
+"export_memo"               = "Memo:";
+"export_recording_interval" = "Recording Interval:";
+"export_max_value"          = "Maximum Value:";
+"export_avg_value"          = "Average Value:";
+"export_min_value"          = "Minimum Value:";
+"export_cvs_head"           = ",No.,Main LCD Value,Main LCD Unit,Sub1 Value,Sub1 Unit,Sub2 Value,Sub2 Unit\n";
+"export_mail_title"         = "EEVBlog Exports";
+"export_mail_body"          = "EEVBlog's log files are attached:";
+"export_main_lcd_position"  = "Main LCD Information\n";
+"export_sub1_position"      = "Sub1 Information\n";
+"export_sub2_position"      = "Sub2 Information\n";
+"export_rec_function"       = "Rec Function:";
+"export_mode"               = "Mode:";
+"export_min"                = "min.";
+"export_sec"                = "sec.";
